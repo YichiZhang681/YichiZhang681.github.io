@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Yichi Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'Each Jump(no p)'
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Yichi
+last_name: Zhang
 
 # Pronouns (optional)
 pronouns: he/him
