@@ -3,7 +3,7 @@
 title: Yichi Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: 'Each Jump(no p)'
+name_pronunciation: 'yìchí   zhāng'
 
 # Full name (for SEO)
 first_name: Yichi
